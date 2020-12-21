@@ -1,10 +1,5 @@
 @charset "UTF-8";
-/*!
- * Bootstrap v3.3.5 (http://getbootstrap.com)
- * Copyright 2011-2015 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
-/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -610,12 +605,12 @@ a.text-warning:focus {
 }
 
 .text-danger {
-  color: #a94442;
+  color: #4252a9;
 }
 
 a.text-danger:hover,
 a.text-danger:focus {
-  color: #843534;
+  color: #343984;
 }
 
 .bg-primary {
@@ -817,7 +812,7 @@ samp {
 code {
   padding: 2px 4px;
   font-size: 90%;
-  color: #c7254e;
+  color: #256ec7;
   background-color: #f9f2f4;
   border-radius: 4px;
 }
